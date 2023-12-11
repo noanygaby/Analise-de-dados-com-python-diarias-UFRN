@@ -2,10 +2,10 @@
 
 1. Descrição:
 
-  Trabalho realizado na disciplina de programação estruturada e orientada a objetos que consistia na elaboração
-de um programa em Python para ler os arquivos de uma base de dados e extrair informações com uso de processamento
-(quantificação, agrupamento, cálculo, etc) de forma a responder 5 questões feitas de acordo com a base de dados
-escolhida, e então elaborar 5 gráficos de acordo com as respostas/questões definidas.
+Trabalho de analise de dados realizado na disciplina de programação estruturada e orientada a objetos que consistia
+na elaboração de um programa em Python para ler os arquivos de uma base de dados e extrair informações com uso de
+processamento (quantificação, agrupamento, cálculo, etc) de forma a responder 5 questões feitas de acordo com a 
+base de dados escolhida, e então elaborar 5 gráficos de acordo com as respostas/questões definidas.
 
 2. Base de dados:
 
